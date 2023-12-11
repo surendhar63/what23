@@ -1,1 +1,1 @@
-what you  what is pr0blem
+print("what you  what is pr0blem")
